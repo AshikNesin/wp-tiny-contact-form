@@ -5,7 +5,7 @@
 
 ### 1. Install the plugin in your WordPress blog
 
-You can download the [latest version](https://github.com/AshikNesin/wp-tiny-contact-form/zipball/master) from GitHub as zip
+You can download the [latest version](https://github.com/AshikNesin/wp-tiny-contact-form/archive/refs/heads/main.zip) from GitHub as zip
 
 Upload it to your site and activate it.
 
