@@ -5,9 +5,10 @@
 
 ### 1. Install the plugin in your WordPress blog
 
-You can download the [latest version](http://github.com/AshikNesin/wp-tiny-contact-form/master) from GitHub as zip
+You can download the [latest version](https://github.com/AshikNesin/wp-tiny-contact-form/zipball/master) from GitHub as zip
 
 Upload it to your site and activate it.
+
 
 ### 2. Include the shortcode in the contact page
 
