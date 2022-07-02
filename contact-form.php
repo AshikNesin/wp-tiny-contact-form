@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Tiny Contact Form
-Plugin URI: https://nesin.io
+Plugin Name: HugeThoughts's Contact Form
+Plugin URI: http://www.hugethoughts.com
 Description: Simple WordPress Contact Form which uses less resources when compared with others.
 Version: 1.0
 Author: Ashik Nesin
-Author URI: https://nesin.io
+Author URI: http://www.AshikNesin.com
 */
  
 function html_form_code() {
@@ -69,7 +69,6 @@ function hts_shortcode() {
     return ob_get_clean();
 }
  
-add_shortcode( 'tiny_contact_form', 'hts_shortcode' );
+add_shortcode( 'hugethoughts_contact_form', 'hts_shortcode' );
  
 ?>
-
